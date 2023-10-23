@@ -1,0 +1,1 @@
+var values = {"values":["tap tap the screen","share to ur friends"]};
