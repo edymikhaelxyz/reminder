@@ -1,1 +1,1 @@
-var values = {"values":["tap tap the screen","share to ur friends"]};
+var values = {"values":["tap tap ur screen!","share to ur friends!","support on bio!"]};
